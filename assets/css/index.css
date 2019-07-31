@@ -1,0 +1,9 @@
+body {
+  background-image: url('/assets/images/sunrise-1756274_1920.jpg');
+}
+
+
+.main-content{
+  background: rgba(0, 0, 0, 0.267);
+  color: white;
+}
