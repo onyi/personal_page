@@ -7,3 +7,22 @@ body {
   background: rgba(0, 0, 0, 0.267);
   color: white;
 }
+
+
+.project-list li {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5em;
+}
+
+.project-list__detail {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.project-list__img{
+  width: 700px;
+  height: 400px;
+}
